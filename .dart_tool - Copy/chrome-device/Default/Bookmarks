@@ -1,0 +1,949 @@
+{
+   "checksum": "96a7cf6f74ac0ad2799c6fd88dbf3b81",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13288853742083570",
+            "date_last_used": "13372609070316826",
+            "guid": "c8da1548-1075-4baf-8411-9eaacbb7cecc",
+            "id": "9",
+            "name": "Contests - Codeforces",
+            "type": "url",
+            "url": "https://codeforces.com/contests"
+         }, {
+            "date_added": "13288855326749338",
+            "date_last_used": "13329896000902070",
+            "guid": "184a2cc1-e005-4d4a-9185-6c88e017e6d6",
+            "id": "10",
+            "name": "ICPC SVU Newcomers 2021 - جداول بيانات Google",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/1ACzhGjoFu3o1GpSGgcAGiAOiPQgMVqR-TyVO7JqxCvQ/edit#gid=898161743"
+         }, {
+            "date_added": "13288855568510961",
+            "date_last_used": "13365458486612359",
+            "guid": "34b95c70-0060-4294-b661-610901c61385",
+            "id": "11",
+            "name": "ICPC SVU Newcomers 2021 - جداول بيانات Google",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/1ACzhGjoFu3o1GpSGgcAGiAOiPQgMVqR-TyVO7JqxCvQ/edit#gid=2129180190"
+         }, {
+            "date_added": "13288831467193965",
+            "date_last_used": "13374233960645951",
+            "guid": "790bcb13-0fd7-4a8c-9b81-989cb9ce7895",
+            "id": "12",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13288833881683784",
+            "date_last_used": "13319038385006412",
+            "guid": "58a518e1-c8dc-429b-a718-e5c59444364d",
+            "id": "13",
+            "name": "Online C Compiler",
+            "type": "url",
+            "url": "https://www.programiz.com/c-programming/online-compiler/"
+         }, {
+            "date_added": "13288970438911386",
+            "date_last_used": "13375877204232940",
+            "guid": "1ef3c764-1501-4cba-848c-130e976f5e30",
+            "id": "14",
+            "name": "Online C++ Compiler - online editor",
+            "type": "url",
+            "url": "https://www.onlinegdb.com/online_c++_compiler"
+         }, {
+            "date_added": "13289144947621475",
+            "date_last_used": "13334600419304600",
+            "guid": "e1972533-bf9f-4ea6-92c9-8867523c3b97",
+            "id": "15",
+            "name": "Online C++ Compiler - online editor",
+            "type": "url",
+            "url": "https://www.onlinegdb.com/online_c++_compiler#"
+         }, {
+            "date_added": "13289167989382192",
+            "date_last_used": "13373556706965388",
+            "guid": "b4ebf7c2-542b-482a-9ca5-198fab5a5b00",
+            "id": "16",
+            "name": "Standings - Not A Contest! - Codeforces",
+            "type": "url",
+            "url": "https://codeforces.com/group/ElayH0u3ss/contest/368862/standings/groupmates/true/page/1"
+         }, {
+            "date_added": "13290030052201926",
+            "date_last_used": "0",
+            "guid": "3eb97d9e-9e0a-4337-846d-9ab11c54dd6d",
+            "id": "17",
+            "name": "Favorites",
+            "type": "url",
+            "url": "edge://favorites/"
+         }, {
+            "date_added": "13290198393234761",
+            "date_last_used": "0",
+            "guid": "8ee6d768-4168-4353-b75a-1e447f29956b",
+            "id": "18",
+            "name": "وزارة الصحة والسكان المصرية - لقاح فيروس كورونا المستجد",
+            "type": "url",
+            "url": "https://egcovac.mohp.gov.eg/#/registration"
+         }, {
+            "date_added": "13290674940749109",
+            "date_last_used": "13387643937230176",
+            "guid": "1b4b7395-5196-4749-801d-48633c5e2940",
+            "id": "19",
+            "name": "Problem - A - Codeforces",
+            "type": "url",
+            "url": "https://codeforces.com/contest/220/problem/A"
+         }, {
+            "date_added": "13290675237140116",
+            "date_last_used": "0",
+            "guid": "a150cf2b-2c77-46fe-bb2f-052a301f19ab",
+            "id": "20",
+            "name": "Problem - A - Codeforces",
+            "type": "url",
+            "url": "https://codeforces.com/contest/133/problem/A"
+         }, {
+            "date_added": "13290727801598959",
+            "date_last_used": "0",
+            "guid": "a22161ad-7c0f-4c29-8c41-11388ff50b81",
+            "id": "21",
+            "name": "Leap year",
+            "type": "url",
+            "url": "read://https_en.wikipedia.org/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLeap_year"
+         }, {
+            "date_added": "13291572625945766",
+            "date_last_used": "0",
+            "guid": "62dd6aa7-92ca-42c5-8d79-d06db074c84e",
+            "id": "22",
+            "name": "edclub",
+            "type": "url",
+            "url": "https://www.typingclub.com/sportal/program-3.game"
+         }, {
+            "date_added": "13291577748718157",
+            "date_last_used": "0",
+            "guid": "66f2c7e5-9a8e-47d7-91a3-54f3ce00451e",
+            "id": "23",
+            "name": "edclub",
+            "type": "url",
+            "url": "https://www.typingclub.com/sportal/program-3/129.play"
+         }, {
+            "date_added": "13294592935912433",
+            "date_last_used": "0",
+            "guid": "23eb207a-fbaf-4ec8-a830-6ccdb6104b1b",
+            "id": "24",
+            "name": "ترجمة Google",
+            "type": "url",
+            "url": "https://translate.google.com/?hl=ar"
+         }, {
+            "date_added": "13291683660394117",
+            "date_last_used": "13377043758546702",
+            "guid": "18334201-f471-4d5a-ae5a-c1ec95ec8739",
+            "id": "25",
+            "name": "رياضيات الجامعات🔥جبر🔥 الاستنتاج الرياضي🔥المحاضر الأولي ☝️ #الاستنتاج_الرياضي - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=bFpsqvEm_JA"
+         }, {
+            "date_added": "13294970071884928",
+            "date_last_used": "0",
+            "guid": "4a213f99-0682-419a-a39f-520c6256d2e7",
+            "id": "26",
+            "name": "Pepo.0's groups - Codeforces",
+            "type": "url",
+            "url": "https://codeforces.com/groups/my"
+         }, {
+            "date_added": "13295878452080752",
+            "date_last_used": "0",
+            "guid": "d645d0fb-58fd-4ae1-af94-2ac9e6bdf9ff",
+            "id": "27",
+            "name": "C++ Math",
+            "type": "url",
+            "url": "https://www.w3schools.com/cpp/cpp_math.asp"
+         }, {
+            "date_added": "13296160039519932",
+            "date_last_used": "0",
+            "guid": "566967ed-d7d0-4b9d-a0ce-cbd430165240",
+            "id": "28",
+            "name": "Codeforces",
+            "type": "url",
+            "url": "https://codeforces.com/?f0a28=1"
+         }, {
+            "date_added": "13296160053031854",
+            "date_last_used": "0",
+            "guid": "b28577d6-3470-4992-8140-bbe4ba0ae74f",
+            "id": "29",
+            "name": "New tab",
+            "type": "url",
+            "url": "edge://newtab/"
+         }, {
+            "date_added": "13298324215428745",
+            "date_last_used": "0",
+            "guid": "da67ce93-1116-48ff-8941-e174f86e59fc",
+            "id": "30",
+            "name": "The ICPC International Collegiate Programming Contest",
+            "type": "url",
+            "url": "https://icpc.global/login"
+         }, {
+            "date_added": "13300927061529659",
+            "date_last_used": "0",
+            "guid": "30f0c62d-80b1-4075-9ddb-ec9d297828bb",
+            "id": "31",
+            "name": "ACM Training - جداول بيانات Google",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/1BC0gfdHmhly50PI4_w6OF9kVlPW-Z50P3ULBV7GrHOk/edit#gid=0"
+         }, {
+            "date_added": "13302713212532735",
+            "date_last_used": "0",
+            "guid": "427ca2de-0a96-46f4-b8a9-de185dca5f50",
+            "id": "32",
+            "name": "Digital Marketing Challenger - Udacity",
+            "type": "url",
+            "url": "https://classroom.udacity.com/nanodegrees/nd018-fwd-t1/parts/566c3d73-a1a8-4fcb-9c4a-1c4ccc689c97/modules/658f2450-524e-4875-87d0-8f3955639a8a/lessons/ls0553/concepts/c32ea9a7-a66c-497e-b3b2-8b1ccb1e8eff"
+         }, {
+            "date_added": "13303060648845188",
+            "date_last_used": "0",
+            "guid": "100267aa-6706-4c08-8c85-90e169919a81",
+            "id": "33",
+            "name": "Online Courses - Learn Anything, On Your Schedule | Udemy",
+            "type": "url",
+            "url": "https://www.udemy.com/"
+         }, {
+            "date_added": "13306972420462642",
+            "date_last_used": "0",
+            "guid": "56f235cd-6ffa-484e-8c0a-9808f623bbfb",
+            "id": "34",
+            "name": "كورسات مجانية من شركة سيسكو- Cisco Free Courses",
+            "type": "url",
+            "url": "https://www.career209.com/2022/08/cisco-free-courses.html"
+         }, {
+            "date_added": "13306972466881190",
+            "date_last_used": "0",
+            "guid": "4b88c372-c70e-4d61-ab2c-b498e30a6ece",
+            "id": "35",
+            "name": "Cisco Skills For All",
+            "type": "url",
+            "url": "https://skillsforall.com/launch?id=7862b32f-0a49-4d7a-b881-498eb3be42cc"
+         }, {
+            "date_added": "13307422114469544",
+            "date_last_used": "0",
+            "guid": "3b2c3ec4-942b-40d9-92e1-a79e633b69eb",
+            "id": "36",
+            "name": "Sign In - Udacity",
+            "type": "url",
+            "url": "https://auth.udacity.com/sign-in/sso?errorCode=4103&next=https%3A%2F%2Fwww.udacity.com&status=400"
+         }, {
+            "date_added": "13307463166692339",
+            "date_last_used": "0",
+            "guid": "d337b038-939b-4797-9783-7eeb4af71e84",
+            "id": "37",
+            "name": "pledge.pdf",
+            "type": "url",
+            "url": "file:///C:/Users/ghhji/Downloads/pledge.pdf"
+         }, {
+            "date_added": "13307463189261566",
+            "date_last_used": "0",
+            "guid": "2c9aa002-1c87-421b-baf2-f7c2e2f58000",
+            "id": "38",
+            "name": "NTI - National Telecommunication Institute",
+            "type": "url",
+            "url": "http://www.nti.sci.eg/evdey/student.php"
+         }, {
+            "date_added": "13311438030363833",
+            "date_last_used": "0",
+            "guid": "8c949083-f474-4b16-9575-eb909e595bd4",
+            "id": "39",
+            "name": "Word",
+            "type": "url",
+            "url": "https://www.office.com/launch/word?flight=unauthrefresh&auth=1"
+         }, {
+            "date_added": "13311438056525021",
+            "date_last_used": "0",
+            "guid": "b13d9b57-13ae-471a-b479-e12d1501c2ed",
+            "id": "40",
+            "name": "Excel",
+            "type": "url",
+            "url": "https://www.office.com/launch/excel?flight=unauthrefresh&auth=1"
+         }, {
+            "date_added": "13311438065316940",
+            "date_last_used": "0",
+            "guid": "e63f4aac-8d65-4428-a89b-12ec99b0f11b",
+            "id": "41",
+            "name": "PowerPoint",
+            "type": "url",
+            "url": "https://www.office.com/launch/powerpoint?flight=unauthrefresh&auth=1"
+         }, {
+            "date_added": "13316953669821018",
+            "date_last_used": "0",
+            "guid": "5e32ee96-020d-4ed0-9e57-181801fc8c5d",
+            "id": "42",
+            "name": "Scope resolution operator is denoted by",
+            "type": "url",
+            "url": "https://compsciedu.com/Object-Oriented-Programming-Using-cpp/Classes-and-Operator-Overloading-in-cpp/discussion/42086"
+         }, {
+            "date_added": "13317002523381389",
+            "date_last_used": "0",
+            "guid": "084684d5-cfcb-4acc-b11b-38be4ada0cf7",
+            "id": "43",
+            "name": "Chapter 9 (Inheritance) - Questions Flashcards | Quizlet",
+            "type": "url",
+            "url": "https://quizlet.com/156515685/chapter-9-inheritance-questions-flash-cards/"
+         }, {
+            "date_added": "13318728091476377",
+            "date_last_used": "0",
+            "guid": "7a35cf3b-9e01-439d-b59f-2ec2e7731d97",
+            "id": "44",
+            "name": "بن الهيثم - بحث",
+            "type": "url",
+            "url": "https://www.bing.com/search?q=%D8%A8%D9%86+%D8%A7%D9%84%D9%87%D9%8A%D8%AB%D9%85&form=ANNTH1&refig=c25698b07a4b4cf68b7cb6eb29233e52"
+         }, {
+            "children": [  ],
+            "date_added": "13321726234748234",
+            "date_last_used": "0",
+            "date_modified": "13321726234748234",
+            "guid": "008432ea-8d48-4f8f-ab31-191b2ef835ab",
+            "id": "45",
+            "name": "New folder",
+            "type": "folder"
+         }, {
+            "date_added": "13321726270485132",
+            "date_last_used": "0",
+            "guid": "57d04bfd-5a4d-4f0e-9131-08740eaccdb4",
+            "id": "46",
+            "name": "ترجمة Google",
+            "type": "url",
+            "url": "https://translate.google.com/;)?sl=ar&tl=en&text=%20%D8%B9%D8%AF%D9%85%20%D9%88%D8%AC%D9%88%D8%AF%20%D8%AD%D9%84%20%D8%B5%D8%AF%D9%8A%D9%82%20%D9%84%D9%84%D8%A8%D9%8A%D8%A6%D8%A9%20%D9%88%20%D9%86%D8%AF%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AD%D9%84%D9%88%D9%84%20%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9%20%0A%D9%84%D8%AA%D9%88%D8%B5%D9%8A%D9%84%20%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A7%D8%AA%20%D9%84%D9%84%D9%85%D9%86%D8%A7%D8%B2%D9%84%20%D9%81%D9%8A%20%D8%A3%D9%8A%20%D9%88%D9%82%D8%AA%20%D9%88%D8%AC%D9%85%D9%8A%D8%B9%20%D9%85%D9%86%D8%A7%D8%B7%D9%82%20%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9%20%D9%82%D9%86%D8%A7&op=translate"
+         }, {
+            "date_added": "13322872740619828",
+            "date_last_used": "13379112966797177",
+            "guid": "765dfc84-7199-484d-b18f-f32dde775d89",
+            "id": "47",
+            "name": "exercises (Kirchhoff)",
+            "type": "url",
+            "url": "https://classroom.google.com/u/0/c/NTk3NTg2Njk4MTM2/m/NTk4MDAxODM5NjA1/details"
+         }, {
+            "date_added": "13324067541782504",
+            "date_last_used": "0",
+            "guid": "5e7f31f6-bc17-482d-b0e9-5c355764121b",
+            "id": "48",
+            "name": "Browsec VPN - Free VPN for Edge - Microsoft Edge Addons",
+            "type": "url",
+            "url": "https://microsoftedge.microsoft.com/addons/detail/browsec-vpn-free-vpn-fo/fjnehcbecaggobjholekjijaaekbnlgj?refid=bingshortanswers"
+         }, {
+            "date_added": "13324518011407694",
+            "date_last_used": "0",
+            "guid": "ffbf69c2-9fed-4ada-a176-80d4ff4ac0c1",
+            "id": "49",
+            "name": "SQL Commands: DDL, DML, DCL, TCL, DQL - javatpoint",
+            "type": "url",
+            "url": "https://www.javatpoint.com/dbms-sql-command"
+         }, {
+            "date_added": "13325267988293047",
+            "date_last_used": "0",
+            "guid": "5246fc4f-e1cc-44e6-9422-5a4765d85726",
+            "id": "50",
+            "name": "DBMS MCQ (Multiple Choice Questions) - Sanfoundry",
+            "type": "url",
+            "url": "https://www.sanfoundry.com/1000-database-management-system-questions-answers/"
+         }, {
+            "date_added": "13325899938926533",
+            "date_last_used": "0",
+            "guid": "5a989656-9f2f-4ffe-bd5e-c3123b29891a",
+            "id": "51",
+            "name": "Stacks Questions and Answers - Sanfoundry",
+            "type": "url",
+            "url": "https://www.sanfoundry.com/data-structure-questions-answers-stack-operations/"
+         }, {
+            "date_added": "13325902462599078",
+            "date_last_used": "0",
+            "guid": "cc1b920e-1204-4fd0-930f-2197ddf77c2c",
+            "id": "52",
+            "name": "Introduction to Stack - Data Structure and Algorithm Tutorials - GeeksforGeeks",
+            "type": "url",
+            "url": "https://www.geeksforgeeks.org/introduction-to-stack-data-structure-and-algorithm-tutorials/"
+         }, {
+            "date_added": "13330431745889088",
+            "date_last_used": "0",
+            "guid": "3abc5cde-759e-4a69-bef9-e444b19bee21",
+            "id": "53",
+            "name": "In a priority queue, insertion and deletion takes place at ………………",
+            "type": "url",
+            "url": "https://compsciedu.com/Data-Structures-and-Algorithms/Stacks-and-Queues/discussion/4197"
+         }, {
+            "date_added": "13330431942086808",
+            "date_last_used": "0",
+            "guid": "53680e95-9c1a-461e-8ee8-ce61fbbd2a42",
+            "id": "54",
+            "name": "160+ Data Structure (DS) Solved MCQs with PDF Download",
+            "type": "url",
+            "url": "https://mcqmate.com/topic/17/data-structure-set-1"
+         }, {
+            "date_added": "13330569760256285",
+            "date_last_used": "0",
+            "guid": "d5ce6dbf-f7f2-4702-9870-f7b354904758",
+            "id": "55",
+            "name": "Data Structures 2 Flashcards | Quizlet",
+            "type": "url",
+            "url": "https://quizlet.com/353447929/data-structures-2-flash-cards/"
+         }, {
+            "date_added": "13330870487622054",
+            "date_last_used": "0",
+            "guid": "6441391c-62ad-4cc7-bb33-5d8ccda89031",
+            "id": "56",
+            "name": "To set the font for a single link, where do you add the \u003Cfont>\u003C/font> tags",
+            "type": "url",
+            "url": "https://www.gkseries.com/computer-science/html/discussion-60"
+         }, {
+            "date_added": "13330871833670490",
+            "date_last_used": "0",
+            "guid": "308b34ec-23ce-42af-afb4-20295ec58577",
+            "id": "57",
+            "name": "Which section is used for text and tags that are shown",
+            "type": "url",
+            "url": "https://www.examveda.com/which-section-is-used-for-text-and-tags-that-are-shown-directly-on-your-web-page-46890/"
+         }, {
+            "date_added": "13331242647175307",
+            "date_last_used": "0",
+            "guid": "9f1dd6b2-3f94-4978-8f41-d41fc3b4e0b3",
+            "id": "58",
+            "name": "Top Parallel Computing Interview Question and Answer MCQ",
+            "type": "url",
+            "url": "https://careericons.com/computer-mcq/parallel-computing/set-2-question-answer/307-1/"
+         }, {
+            "date_added": "13331425525587225",
+            "date_last_used": "0",
+            "guid": "53a4a6e3-1172-40aa-9e98-cee39eadbd5d",
+            "id": "59",
+            "name": "MEGA ↓ 0%",
+            "type": "url",
+            "url": "https://mega.nz/folder/yKQTibjS#rVH8QSbJgQjCC9EjNwDisg"
+         }, {
+            "date_added": "13333161523420385",
+            "date_last_used": "0",
+            "guid": "e75b7008-f163-4141-9ab3-d60c6bb58f09",
+            "id": "60",
+            "name": "Learn Touch Typing Free - TypingClub",
+            "type": "url",
+            "url": "https://www.typingclub.com/"
+         }, {
+            "date_added": "13333161573892109",
+            "date_last_used": "0",
+            "guid": "30ae278e-9f94-43c7-b379-a5347a3caee8",
+            "id": "61",
+            "name": "10FastFingers.com - Typing Test, Competitions, Practice & Typing Games",
+            "type": "url",
+            "url": "https://10fastfingers.com/"
+         }, {
+            "date_added": "13333479923605343",
+            "date_last_used": "0",
+            "guid": "a43b8542-ac61-4806-8148-5f2229ee3aef",
+            "id": "62",
+            "name": "Quick reaction: Raptors 143, Spurs 100 - Raptors Republic",
+            "type": "url",
+            "url": "https://dba2.oponame.com/egybest.php?post=eyJ1cWxvYWQiOiJodHRwczpcL1wvdXFsb2FkLmNvbVwvZW1iZWQtOGZ6eGtkOHhtMDg4Lmh0bWwifQ=="
+         }, {
+            "date_added": "13336030570224597",
+            "date_last_used": "0",
+            "guid": "c39b5032-20f3-46a1-8b19-2b8edcd24b96",
+            "id": "63",
+            "name": "Flutter & Dart - The Complete Guide [2023 Edition] A-Z | Udemy",
+            "type": "url",
+            "url": "https://www.udemy.com/course/el5hatib-flutter/learn/lecture/39102836#overview"
+         }, {
+            "date_added": "13338295224494588",
+            "date_last_used": "0",
+            "guid": "66b65563-3549-4ed3-bb9d-f361dbefb90a",
+            "id": "64",
+            "name": "google scholar - Search",
+            "type": "url",
+            "url": "https://www.bing.com/search?q=google+scholar&form=ANSPH1&refig=c0262c5ce61b4092b98180370a42cfdf&pc=U531&sp=1&lq=0&filters=ufn%3A%22Google+Scholar%22+sid%3A%22a132023a-43aa-7bac-ca61-c32de5df84ee%22&asbe=OS&qs=MB&pq=gogal+s&sc=10-7&cvid=c0262c5ce61b4092b98180370a42cfdf"
+         }, {
+            "date_added": "13339602224323063",
+            "date_last_used": "0",
+            "guid": "437b14bf-dbf8-446c-9876-5139c0684971",
+            "id": "65",
+            "name": "لوحة التحكم - بيت.كوم",
+            "type": "url",
+            "url": "https://www.bayt.com/ar/myworkspace-j/"
+         }, {
+            "date_added": "13341087867136169",
+            "date_last_used": "0",
+            "guid": "89d767d1-f792-41f1-91af-6af53944ecb8",
+            "id": "66",
+            "name": "Cisco Skills For All",
+            "type": "url",
+            "url": "https://skillsforall.com/launch?id=ec0847b7-e6fc-4597-bc31-38ddd6b07a2f&tab=curriculum&view=e4438117-81a5-5b37-81a5-dc26c153963d"
+         }, {
+            "date_added": "13341088528734973",
+            "date_last_used": "0",
+            "guid": "311f51c6-7e81-421d-81c1-5a9a3dd6db40",
+            "id": "67",
+            "name": "Cisco Skills For All",
+            "type": "url",
+            "url": "https://skillsforall.com/launch?id=ec0847b7-e6fc-4597-bc31-38ddd6b07a2f&tab=curriculum&view=25930ae2-75a7-50d2-8df1-c36d35fab6a9"
+         }, {
+            "date_added": "13342561236596303",
+            "date_last_used": "0",
+            "guid": "089e617c-3ff5-4722-9c57-14441af07ec8",
+            "id": "68",
+            "name": "‪Microcontroller Assessments‬‏ - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1puJ3emt9sZrzADJPd8xQ1_KZZ7UZ2dFB?usp=drive_link"
+         }, {
+            "date_added": "13344269976296072",
+            "date_last_used": "0",
+            "guid": "761742f7-3d92-4cb7-b859-9d99d5602636",
+            "id": "69",
+            "name": "‪Microcontroller Assessments‬‏ - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1puJ3emt9sZrzADJPd8xQ1_KZZ7UZ2dFB"
+         }, {
+            "date_added": "13344543631039578",
+            "date_last_used": "0",
+            "guid": "e1590043-cdc6-48d2-ab34-c32bb731f3b6",
+            "id": "70",
+            "name": "(1332) Algorithms analysis & Design course - Dr.Ahmed Salah - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/playlist?list=PLJy_Searp12mIkGlnuJLFGPpGeFE2G3_Y"
+         }, {
+            "date_added": "13345847284526752",
+            "date_last_used": "0",
+            "guid": "ed78914f-7174-40c2-af35-df0a3388dad5",
+            "id": "71",
+            "name": "Convert Powerpoint to PDF. Presentations PPT to PDF",
+            "type": "url",
+            "url": "https://www.ilovepdf.com/powerpoint_to_pdf"
+         }, {
+            "date_added": "13346113550275467",
+            "date_last_used": "0",
+            "guid": "3b033036-d09e-4373-b8e3-fa07ebd345d4",
+            "id": "72",
+            "name": "iLoveOCR | Online OCR Tools for OCR lovers - Image to Text",
+            "type": "url",
+            "url": "https://www.iloveocr.com/"
+         }, {
+            "date_added": "13348567254917070",
+            "date_last_used": "0",
+            "guid": "f2b47e12-3396-4900-bf33-993b01c1ccf0",
+            "id": "73",
+            "name": "Amazon Web Services (AWS), 3rd Edition",
+            "type": "url",
+            "url": "https://learning.oreilly.com/course/amazon-web-services/9780137928521/"
+         }, {
+            "date_added": "13353203107298753",
+            "date_last_used": "0",
+            "guid": "0e132b1f-7e22-4446-a79d-c69aaa4404f1",
+            "id": "74",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "‪Berlitz English - Language for Life - Level 1‬‏ - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/104Z2ovUXigGbKzztmYAjWq-dffOJxWab"
+         }, {
+            "date_added": "13353203179949097",
+            "date_last_used": "0",
+            "guid": "ad7b98c7-b726-4eae-a33c-6cb78a5f12d0",
+            "id": "75",
+            "name": "تحميل كورس معهد بيرليتز لتعلم اللغة الإنجليزية كامل مجاني Berlitz English Course",
+            "type": "url",
+            "url": "https://www.career209.com/2024/02/berlitz-english-course.html"
+         }, {
+            "date_added": "13353541315742803",
+            "date_last_used": "0",
+            "guid": "0c9d6b50-ccec-46c2-af35-c5753c2cfd1c",
+            "id": "76",
+            "name": "Copilot with GPT-4",
+            "type": "url",
+            "url": "https://www.bing.com/search?form=CHRD01&q=Bing+AI&showconv=1"
+         }, {
+            "date_added": "13354139774830862",
+            "date_last_used": "0",
+            "guid": "c74c77fb-5689-4fd7-8c27-bb71283e4506",
+            "id": "77",
+            "name": "نماذج Google",
+            "type": "url",
+            "url": "https://docs.google.com/forms/u/0/?tgif=d&ec=asw-forms-hero-goto"
+         }, {
+            "date_added": "13356577425208253",
+            "date_last_used": "0",
+            "guid": "1b7cff6a-4295-4ff1-bb09-ef103d590778",
+            "id": "78",
+            "name": "PDF to DXF | CloudConvert",
+            "type": "url",
+            "url": "https://cloudconvert.com/pdf-to-dxf"
+         }, {
+            "date_added": "13357581762880808",
+            "date_last_used": "0",
+            "guid": "02c6a469-2fef-45f1-ae79-0807ee3314a9",
+            "id": "79",
+            "name": "My Account - PortSwigger",
+            "type": "url",
+            "url": "https://portswigger.net/users/youraccount/licenses"
+         }, {
+            "date_added": "13357599356730590",
+            "date_last_used": "0",
+            "guid": "86695167-febf-4bf8-ace5-9ad8af3e75e5",
+            "id": "80",
+            "name": "LABS.txt",
+            "type": "url",
+            "url": "https://www.dropbox.com/scl/fi/f1rig5yd5do9l0r2itsbj/LABS.txt?rlkey=xcrh55kdxqubrvrl8j42ogsv3&dl=0"
+         }, {
+            "date_added": "13360853031676230",
+            "date_last_used": "0",
+            "guid": "5340039c-9406-42f8-ad1d-8d972ead316a",
+            "id": "81",
+            "name": "(25) Rowad Banking Intern | Banque Misr | LinkedIn",
+            "type": "url",
+            "url": "https://www.linkedin.com/jobs/view/3925047056/?alternateChannel=search&refId=S026G0o2ZvVWXL5HQ7HLYQ%3D%3D&trackingId=uuscO4ir%2FIU3pwPFCysNUg%3D%3D&trk=d_flagship3_search_srp_jobs"
+         }, {
+            "date_added": "13360876538873541",
+            "date_last_used": "0",
+            "guid": "4d8f6945-5f7e-480a-9af6-43cfe99eabb2",
+            "id": "82",
+            "name": "South Valley Universtiy",
+            "type": "url",
+            "url": "https://svucredit.mans.edu.eg/static/index.html"
+         }, {
+            "date_added": "13361206697235538",
+            "date_last_used": "0",
+            "guid": "a519974e-7c02-4197-bddb-616a2162e9f9",
+            "id": "83",
+            "name": "Resume Editor",
+            "type": "url",
+            "url": "https://app.enhancv.com/resume/6653440b708f79e410e93f4b"
+         }, {
+            "date_added": "13361315601198946",
+            "date_last_used": "0",
+            "guid": "ea754524-7564-4e40-b1ad-480a9bbd2e0b",
+            "id": "84",
+            "name": "The Complete Flutter Development Guide [2024 Edition] | Udemy",
+            "type": "url",
+            "url": "https://www.udemy.com/course/fluttercourse/?couponCode=UPGRADE02223"
+         }, {
+            "date_added": "13361316692837941",
+            "date_last_used": "0",
+            "guid": "9a37994b-de35-43fd-9013-774ae0e06a71",
+            "id": "85",
+            "name": " Udemy",
+            "type": "url",
+            "url": "https://www.udemy.com/user/edit-profile/"
+         }, {
+            "date_added": "13365171417202525",
+            "date_last_used": "0",
+            "guid": "3fa1f98b-7763-40a9-a0bf-35ea6774f875",
+            "id": "86",
+            "name": "udemy.com/logout/flutter",
+            "type": "url",
+            "url": "https://www.udemy.com/logout/"
+         }, {
+            "date_added": "13367495598446278",
+            "date_last_used": "0",
+            "guid": "bf397bc6-342c-4a30-984e-5a30f9e5ded9",
+            "id": "87",
+            "name": "سفر إشعياء - الأصحاح 45 | ترجمة اليسوعية (Jesuit Arabic Bible) | منتديات الكنيسة",
+            "type": "url",
+            "url": "https://arabchurch.com/ArabicBible/jab/Isaiah/45"
+         }, {
+            "date_added": "13372345628020920",
+            "date_last_used": "0",
+            "guid": "0818b025-cb64-4cfd-8935-dcac3ee0be41",
+            "id": "88",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Gemini",
+            "type": "url",
+            "url": "https://gemini.google.com/app/fd31bd953c062480"
+         }, {
+            "date_added": "13372345635891943",
+            "date_last_used": "0",
+            "guid": "8ba22dc8-f0dd-4a91-9bb8-308ae752f678",
+            "id": "89",
+            "name": "Gemini",
+            "type": "url",
+            "url": "https://gemini.google.com/app/fd31bd953c062480"
+         }, {
+            "date_added": "13373416358491340",
+            "date_last_used": "13381331641816907",
+            "guid": "151df6e7-c8f2-4de4-9ea2-c557c924530c",
+            "id": "90",
+            "name": "الادمان",
+            "type": "url",
+            "url": "https://chatgpt.com/c/670d9028-1648-8005-9a9c-1a08bcf08b56"
+         }, {
+            "children": [  ],
+            "date_added": "13374361726308322",
+            "date_last_used": "0",
+            "date_modified": "13374361726308322",
+            "guid": "85e0e752-0110-433b-ae15-9d13429a46a5",
+            "id": "91",
+            "name": "New folder",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13374361742105663",
+            "date_last_used": "0",
+            "date_modified": "13374361742105663",
+            "guid": "e6eefd63-3dfb-4947-9358-fed23c400b80",
+            "id": "92",
+            "name": "New folder",
+            "type": "folder"
+         }, {
+            "date_added": "13374858433552691",
+            "date_last_used": "0",
+            "guid": "19540f92-dd21-43d0-b68a-7a3d10d8c93a",
+            "id": "93",
+            "name": "Online Python Compiler (Interpreter) - Programiz",
+            "type": "url",
+            "url": "https://www.programiz.com/python-programming/online-compiler/"
+         }, {
+            "date_added": "13375999685392133",
+            "date_last_used": "0",
+            "guid": "8731f86a-52cd-4c18-8eeb-c2829ded7bba",
+            "id": "94",
+            "name": "كم تستغرق عملية قسطرة القلب؟ - ويب طب",
+            "type": "url",
+            "url": "https://www.webteb.com/articles/%D9%83%D9%85-%D8%AA%D8%B3%D8%AA%D8%BA%D8%B1%D9%82-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D9%82%D8%B3%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D9%84%D8%A8_32061"
+         }, {
+            "date_added": "13376347337619635",
+            "date_last_used": "13383604812761592",
+            "guid": "299e2668-558d-4e70-a1c1-d80ad22bcd3b",
+            "id": "95",
+            "name": "تحية ومساعدة",
+            "type": "url",
+            "url": "https://chatgpt.com/c/670d9028-1648-8005-9a9c-1a08bcf08b56"
+         }, {
+            "date_added": "13376784834175162",
+            "date_last_used": "0",
+            "guid": "999a908a-f3e3-4633-bb53-387fc8d650ec",
+            "id": "96",
+            "name": "دكتور محجوب حمزة باطنة - دليل الأطباء",
+            "type": "url",
+            "url": "https://doctors.dailymedicalinfo.com/dr/72571_%d8%af%d9%83%d8%aa%d9%88%d8%b1-%d9%85%d8%ad%d8%ac%d9%88%d8%a8-%d8%ad%d9%85%d8%b2%d8%a9-%d8%a8%d8%a7%d8%b7%d9%86%d8%a9/"
+         }, {
+            "date_added": "13377038206192981",
+            "date_last_used": "0",
+            "guid": "cda9dba9-c246-4999-acfa-db2919d065ce",
+            "id": "97",
+            "name": "Recents and Sharing – Figma",
+            "type": "url",
+            "url": "https://www.figma.com/files/team/1442963841472445650/recents-and-sharing?fuid=1442963837731708328"
+         }, {
+            "date_added": "13377050545103550",
+            "date_last_used": "0",
+            "guid": "aa928795-d42a-4217-a22f-c9d4ab511731",
+            "id": "98",
+            "name": "Getting Started 👋",
+            "type": "url",
+            "url": "https://app.visily.ai/projects/ef2619bd-c9aa-449d-9448-cd72f6e7389b/boards/1451889"
+         }, {
+            "date_added": "13377300748642375",
+            "date_last_used": "0",
+            "guid": "52839b42-953a-4ac9-9681-d598851c58d4",
+            "id": "99",
+            "name": "دانلودلی - دانلود رایگان نرم افزار",
+            "type": "url",
+            "url": "https://downloadly.ir/"
+         }, {
+            "date_added": "13378340130648007",
+            "date_last_used": "0",
+            "guid": "ef20e051-3490-4dbb-aba6-4a53fc1c95a3",
+            "id": "100",
+            "name": "Networking Essentials",
+            "type": "url",
+            "url": "https://www.netacad.com/courses/networking-essentials?courseLang=en-US&instance_id=90b2de8c-8aab-4c68-bc75-39117f030e1b"
+         }, {
+            "date_added": "13378603670836262",
+            "date_last_used": "0",
+            "guid": "8e3285ed-8a98-44d8-94d0-22abacc369df",
+            "id": "101",
+            "name": "Blank diagram: Lucidchart",
+            "type": "url",
+            "url": "https://lucid.app/lucidchart/acf24316-1d90-4f8c-b4a8-72f0ad148a59/edit?beaconFlowId=35D1484A104BB08B&invitationId=inv_c527e647-dd98-4442-bc24-4e331f35d762&page=0_0#"
+         }, {
+            "date_added": "13378611873375979",
+            "date_last_used": "0",
+            "guid": "e8c57f37-505a-4b49-b294-a6ef63996ad5",
+            "id": "102",
+            "name": "Use cace : Lucidchart",
+            "type": "url",
+            "url": "https://lucid.app/lucidchart/8ef50252-1cc8-4236-817d-44cc38070f1f/edit?beaconFlowId=2A64A3051632D3FF&invitationId=inv_6ee8f915-9f60-45fe-9683-2a8aa5542516&page=0_0#"
+         }, {
+            "date_added": "13379359365455095",
+            "date_last_used": "0",
+            "guid": "fd20d5e6-0d4a-45a9-9b2a-c694f921cb80",
+            "id": "103",
+            "name": "مولد الصور بالذكاء الاصطناعي المجاني من النص",
+            "type": "url",
+            "url": "https://aiimagegenerator.is/ar"
+         }, {
+            "date_added": "13379543987718523",
+            "date_last_used": "0",
+            "guid": "4434194e-2ff8-40ff-9199-79b2b405e837",
+            "id": "104",
+            "name": "Online Python Compiler",
+            "type": "url",
+            "url": "https://trinket.io/python3/f79af42840"
+         }, {
+            "date_added": "13381762166819117",
+            "date_last_used": "0",
+            "guid": "aab48bfe-fb75-43c4-8da3-3558c6f99faf",
+            "id": "105",
+            "name": "ضغط الصور",
+            "type": "url",
+            "url": "https://squoosh.app/"
+         }, {
+            "date_added": "13381762449016927",
+            "date_last_used": "0",
+            "guid": "d7281b28-272f-4775-8ddc-6529df7ab1ec",
+            "id": "106",
+            "name": "Investors",
+            "type": "url",
+            "url": "https://raizer.app/investors"
+         }, {
+            "date_added": "13382294218800185",
+            "date_last_used": "0",
+            "guid": "731544fd-2694-4498-9e0c-15724ea75654",
+            "id": "107",
+            "name": "كورس تحليل البيانات للمبتدئين من الصفر | تعلم Excel، SQL، Python، وPower BI -",
+            "type": "url",
+            "url": "https://www.stjegypt.com/course/n/514"
+         }, {
+            "date_added": "13382294258854077",
+            "date_last_used": "0",
+            "guid": "6eb84241-6210-4eb1-84c4-9d5fba86ae63",
+            "id": "108",
+            "name": "كورس تحليل البيانات الشامل | تعلم Excel، Power BI، SPSS، والإحصائيات -",
+            "type": "url",
+            "url": "https://www.stjegypt.com/course/n/515"
+         }, {
+            "date_added": "13382294311070144",
+            "date_last_used": "0",
+            "guid": "53893678-2426-468d-9117-3658518007e3",
+            "id": "109",
+            "name": "كورس تحليل البيانات باستخدام Excel | تعلم من الصفر إلى الاحتراف -",
+            "type": "url",
+            "url": "https://www.stjegypt.com/course/n/513"
+         }, {
+            "date_added": "13382640558685448",
+            "date_last_used": "0",
+            "guid": "7cb7ae52-6344-481d-84f1-1ba2101162c9",
+            "id": "110",
+            "name": "‫The Story of O - فيلم: شاهدوا بالبث أونلاين",
+            "type": "url",
+            "url": "https://www.justwatch.com/eg/movie/the-story-of-o"
+         }, {
+            "date_added": "13382659867488783",
+            "date_last_used": "0",
+            "guid": "627074d3-8f04-45d2-bc78-89fb738182ad",
+            "id": "111",
+            "name": "يلا شوت لايف برو - Yalla Shoot live pro | أهم مباريات اليوم بث مباشر",
+            "type": "url",
+            "url": "https://www.yallashootlive.pro/"
+         }, {
+            "date_added": "13383451769685390",
+            "date_last_used": "0",
+            "guid": "c4494863-d194-41df-83b4-53dbb74d634f",
+            "id": "112",
+            "name": "The official repository for Dart and Flutter packages.",
+            "type": "url",
+            "url": "https://pub.dev/"
+         }, {
+            "date_added": "13384559637327926",
+            "date_last_used": "0",
+            "guid": "09aecab3-52e3-40bd-b9d5-f590015855d1",
+            "id": "113",
+            "name": "DeepSeek - Into the Unknown",
+            "type": "url",
+            "url": "https://chat.deepseek.com/a/chat/s/e77365f6-6d36-4c9a-8350-2581b2db8c01"
+         }, {
+            "date_added": "13384613397705345",
+            "date_last_used": "0",
+            "guid": "2cc7f5b0-b1da-4f5c-ba4c-5c835aa689e2",
+            "id": "114",
+            "name": "FlutLab.io - Workspace",
+            "type": "url",
+            "url": "https://flutlab.io/workspace"
+         }, {
+            "date_added": "13385264180066687",
+            "date_last_used": "0",
+            "guid": "7988476c-c1ec-400b-a7d2-d8efcb82dcac",
+            "id": "115",
+            "name": "مشاهدة ماى سيما MYCIMA وى سيما WECIMA افلام و مسلسلات اون لاين - وى سيما wecima ماى سيما mycima",
+            "type": "url",
+            "url": "https://vbn1.t4ce4ma.shop/"
+         }, {
+            "date_added": "13385763785790776",
+            "date_last_used": "0",
+            "guid": "f41d25ee-1bf7-4737-94f9-1a03f9a8d13d",
+            "id": "116",
+            "name": "Dashboard - Tinkercad",
+            "type": "url",
+            "url": "https://www.tinkercad.com/dashboard"
+         }, {
+            "date_added": "13388029398410870",
+            "date_last_used": "0",
+            "guid": "184c7eaf-e16d-49dd-a244-042ac88c1395",
+            "id": "117",
+            "name": " Github",
+            "type": "url",
+            "url": "https://github.com/Abanoublewis?tab=repositories"
+         }, {
+            "date_added": "13388081102352464",
+            "date_last_used": "0",
+            "guid": "325e5e34-d126-4495-8503-9a7de3e1934d",
+            "id": "118",
+            "name": "Sign in account for APKPure Android App Store",
+            "type": "url",
+            "url": "https://apkpure.com/ar/login"
+         }, {
+            "date_added": "13388114630787427",
+            "date_last_used": "0",
+            "guid": "00e77bab-8e84-4ea4-b700-fe462361f0de",
+            "id": "8",
+            "name": "Lenovo Support",
+            "type": "url",
+            "url": "https://support.lenovo.com/"
+         }, {
+            "date_added": "13388114630787282",
+            "date_last_used": "0",
+            "guid": "9d2ed70b-7240-4767-8fc3-968b55bcdfba",
+            "id": "7",
+            "name": "Lenovo",
+            "type": "url",
+            "url": "https://www.lenovo.com/"
+         }, {
+            "date_added": "13388114630785295",
+            "date_last_used": "0",
+            "guid": "9915978b-fb28-441c-8d8c-883e907ef616",
+            "id": "6",
+            "name": "McAfee",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/lenovo.html"
+         } ],
+         "date_added": "13388114630252113",
+         "date_last_used": "0",
+         "date_modified": "13388114630787427",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13388114630252116",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13388114630252117",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

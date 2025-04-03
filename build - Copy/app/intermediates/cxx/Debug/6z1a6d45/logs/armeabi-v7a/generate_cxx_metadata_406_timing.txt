@@ -1,0 +1,10 @@
+
+generate_cxx_metadata
+  execute-generate-process
+    [gap of 10ms]
+    exec-configure 9704ms
+    [gap of 23ms]
+  execute-generate-process completed in 9737ms
+  [gap of 47ms]
+generate_cxx_metadata completed in 9811ms
+
